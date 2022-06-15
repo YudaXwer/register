@@ -1,0 +1,19 @@
+{
+
+  "description": "this a link to my website",
+
+  "owner": {
+
+    "username": "YudaXwer",
+
+    "email": "yudaxwer465@gmail.com"
+
+  },
+
+  "record": {
+
+    "CNAME": "yudaxwer.github.io"
+
+  }
+
+}
